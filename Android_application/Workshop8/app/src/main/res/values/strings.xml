@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Travel Experts Agent App</string>
+    <string name="launcher_name">Agent App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_agency_detail">AgencyDetailActivity</string>
+    <string name="title_activity_agent_detail">AgentDetailActivity</string>
+    <string name="filterAgents">Filter Agents:</string>
+
+    <string name="item_title">Travel Experts Agent App</string>
+    <string name="email">Email</string>
+    <string name="tollfree">Call</string>
+    <string name="website">Website</string>
+    <string name="travelx_url">http://www.google.com/</string>
+    <string name="title_activity_agent_list">AgentListActivity</string>
+    <string name="title_activity_agency_list">AgencyListActivity</string>
+    <string name="agent_list">Agents</string>
+    <string name="agency_list">Agencies</string>
+    <string name="nodata">No Data Found</string>
+
+    <string name="titleAgency">Agency Details</string>
+    <string name="address">Address:</string>
+    <string name="city">City:</string>
+    <string name="province">Province:</string>
+    <string name="postal">Postal:</string>
+    <string name="country">Country:</string>
+    <string name="phone">Phone:</string>
+    <string name="fax">Fax:</string>
+
+    <string name="titleAgent">Agent Details</string>
+    <string name="agent_name">Name:</string>
+    <string name="fname">First Name:</string>
+    <string name="lname">Last Name:</string>
+    <string name="initial">Middle Initial:</string>
+    <string name="position">Position:</string>
+    <string name="agencyid"> Agency Id:</string>
+    <string name="agency">Agency:</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
